@@ -1,0 +1,54 @@
+@import url(recursos/coolveti.ttf);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+body{
+    background-image: url(recursos/Gama-de-Color-recurso-img-960x571.jpg);
+    background-size: cover;
+}
+div{
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+}
+h1{
+    font-family: coolvetica;
+    font-size: 120px;
+    color: #0a2ff1;
+    text-shadow: 7px 7px rgb(10, 10, 10);
+    margin-bottom: 10px;
+}
+h3{
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #04146c;
+    background-color: whitesmoke;
+    width: 50%;
+    border-radius: 8px;
+}
+#uno, #dos{
+    width: 500px;
+    height: 60px;
+    margin: 30px;
+}
+#uno{
+    background-color: #0a2ff1;
+    border: 3px solid #0a2ff1;
+}
+#dos{
+    background-color:white;
+    
+    border: 3px solid #0a2ff1;
+}
+.unoa, .dosa{
+    color: white;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+.dosa{
+    color: black;
+}
